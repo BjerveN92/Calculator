@@ -1,2 +1,2 @@
 # Calculator
-An calculator made in java , school practice! 
+An calculator made in javascript , school practice! 
